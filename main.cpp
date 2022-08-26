@@ -30,7 +30,7 @@ if(i<0)
 
            else
 
-               cout<<rev1.reverse_Digit(i)<<" ";
+               cout<<rev1.reverseDigit(i)<<" ";
                cout<<rev1.reverseString(s1)<<" ";
  
 
