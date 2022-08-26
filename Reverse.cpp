@@ -44,7 +44,7 @@ return letters[number_characters-1]+ reverseString(letters.substr(0, number_char
 
      
 
-       return value%10*(int)pow(10, len-1) + reverse_Digit(value/10);
+       return value%10*(int)pow(10, len-1) + reverseDigit(value/10);
 
        }
 
