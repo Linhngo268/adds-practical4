@@ -9,7 +9,7 @@
 
      
 
-using namespace std;
+ 
 
 class Reverse
 
@@ -17,9 +17,9 @@ class Reverse
 
        public:
 
-       string reverseString(string str1);
+       std::string reverseString(std::string letters);
 
-       int reverse_Digit(int val);
+       int reverse_Digit(int value);
 
      
 
