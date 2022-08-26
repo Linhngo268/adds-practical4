@@ -19,7 +19,7 @@ class Reverse
 
        std::string reverseString(std::string letters);
 
-       int reverse_Digit(int value);
+       int reverseDigit(int value);
 
      
 
