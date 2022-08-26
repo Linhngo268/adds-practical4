@@ -1,10 +1,4 @@
-//
-//  Reverse.cpp
-//  
-//
-//  Created by Ngo Linh on 4/4/22.
-//
-
+ 
 #include "Reverse.h"
 #include <string>
 using namespace std;
