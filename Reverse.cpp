@@ -28,7 +28,7 @@ return letters[number_characters-1]+ reverseString(letters.substr(0, number_char
 
 
 
- int Reverse::reverse_Digit(int value)
+ int Reverse::reverseDigit(int value)
 
        {
 
