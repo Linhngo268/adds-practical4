@@ -1,24 +1,15 @@
-//
-//  Reverse.hpp
-//  
-//
-//  Created by Ngo Linh on 4/4/22.
-//
-
+ 
 #ifndef REVERSE_H
 #define REVERSE_H
 
 #include <stdio.h>
 
 #include <string>
+  #include <math.h>
 
-    //math file
+     
 
-    #include <math.h>
-
-    //cin and cout statement
-
-    using namespace std;
+using namespace std;
 
 class Reverse
 
@@ -33,4 +24,4 @@ class Reverse
      
 
     };
-#endif /* Reverse_h */
+#endif  
